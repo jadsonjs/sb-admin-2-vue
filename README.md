@@ -1,2 +1,84 @@
 # sb-admin-2-vue
-vue js project with sb-admin-2 bootstrap template
+   A vue.js project with sb-admin-2 bootstrap template.
+
+
+SB Admin 2 is an **Vue** front-end application based on [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) Bootstrap template 
+
+
+![Screenshot](https://github.com/jadsonjs/sb-admin-2-vue/blob/master/sb-admin-2-vue.png)
+
+
+<p align="center">
+  <strong>
+      <a href="https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html" target="_blank">View HTML Demo Version of Original SB Admin 2</a>
+  </strong>
+</p>
+
+
+This project has no communication with back-end, it is just a generic font-end project to be adapted to a full project.
+
+
+**Version 1.0.0**
+
+
+	The project structure:
+	
+```
+├── src/                                      # root folder of the projects
+|   ├── assets/                               # third-party static js and css files                       
+|   ├── components/                           # Vue.js components
+|   |   └── ...       
+|   ├── router/                               
+|   |   └── index.js /                        # Vue.js router file
+|   └── main.js                               
+|   └── App.vue                               # Vue main component 
+├── static/
+|   ├── sbadmin/                              # original boostrap project
+```
+
+
+
+
+## 1.Introduction
+
+This project was generated with [Vue CLI](https://cli.vuejs.org/) version 2.9.6.
+
+
+## 2.Getting Started
+
+```
+git clone https://github.com/jadsonjs/sb-admin-2-vue.git
+```
+
+## 3. Install Node.js and Vue-CLI
+
+You first need to install [NodeJs](https://nodejs.org/en/) thats include npm. 
+
+After install node.js, you need to install Vue CLI:
+
+```
+npm install -g vue-cli
+
+```
+
+## 4. Build the project
+
+```
+cd sb-admin-2-vue
+npm install
+npm run dev
+```
+
+Open the web brower in http://localhost:8080
+
+
+## 5. Build for production
+
+```
+npm run build
+```
+
+This command will generate a *_"dist"_* folder.
+
+
+
