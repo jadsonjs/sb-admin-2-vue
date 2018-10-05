@@ -2,7 +2,7 @@
    A vue.js project with sb-admin-2 bootstrap template.
 
 
-SB Admin 2 is an **Vue** front-end application based on [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) Bootstrap template 
+SB Admin 2 Vue is an **Vue** front-end application based on [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) Bootstrap template 
 
 
 ![Screenshot](https://github.com/jadsonjs/sb-admin-2-vue/blob/master/sb-admin-2-vue.png)
