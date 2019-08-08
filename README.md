@@ -57,7 +57,7 @@ You first need to install [NodeJs](https://nodejs.org/en/) thats include npm.
 After install node.js, you need to install Vue CLI:
 
 ```
-npm install -g vue-cli
+npm install -g @vue/cli (vue cli 3)
 
 ```
 
