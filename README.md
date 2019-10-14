@@ -80,5 +80,12 @@ npm run build
 
 This command will generate a *_"dist"_* folder.
 
+Rename the dist folder to the your "app name". And serve it on a web server like apache, tomcat or PM2.
+
+You will need to change the public path to your "app name" in config/index.js
+
+
+
+
 
 
