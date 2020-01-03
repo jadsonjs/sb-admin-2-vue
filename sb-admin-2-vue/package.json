@@ -1,8 +1,8 @@
 {
-  "name": "acervus-front-interno",
+  "name": "sb-admin-vue",
   "version": "1.0.0",
   "description": "Test System",
-  "author": "Jadson Santos <jadsonjs@gmail.ufrn.br>",
+  "author": "Jadson Santos <jadsonjs@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

@@ -74,6 +74,11 @@ Open the web brower in http://localhost:8080
 
 ## 5. Build for production
 
+As the js and css files of sb-admin were include directy in the index.html pages.
+First of all, to run for production you need to change the path of this files to include the "appname" folder.
+The default name of app is *_"dist"_*.
+So include the "/dist" in the begining of the path to these files. After that, run the command:
+
 ```
 npm run build
 ```
@@ -90,5 +95,7 @@ In this case, you will need to change the public path to your "app name" in conf
 https://stackoverflow.com/questions/48578498/vue-webpack-build-show-blank-page
 
 
+If you rename the path on index.html files to include the "dist" and server the "dist" folder on a http server .
 
+Open the web brower in http://localhost:8080/dist
 
